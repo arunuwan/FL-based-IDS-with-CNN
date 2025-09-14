@@ -1,0 +1,210 @@
+[
+  {
+    "timestamp": "2025-09-14T15:48:49.249722",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 90.12170433998108,
+    "test_loss": 0.20248733460903168,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T15:50:07.148037",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 82.76976346969604,
+    "test_loss": 0.47100937366485596,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T15:55:20.015611",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 44.93999779224396,
+    "test_loss": 0.6950151324272156,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T15:56:45.230769",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 80.80940842628479,
+    "test_loss": 0.7487635612487793,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T15:57:55.852244",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 78.07170748710632,
+    "test_loss": 1.364630937576294,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T15:59:01.375153",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 79.15512919425964,
+    "test_loss": 1.345534086227417,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:00:06.263608",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 78.8575530052185,
+    "test_loss": 1.5908554792404175,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:01:14.329323",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 78.95593643188477,
+    "test_loss": 1.7743425369262695,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:02:39.195310",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 78.89520525932312,
+    "test_loss": 1.8841620683670044,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:04:04.712611",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 78.78224849700928,
+    "test_loss": 1.869564175605774,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:05:25.943861",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 78.6935806274414,
+    "test_loss": 2.1568353176116943,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:06:47.259384",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 78.53811383247375,
+    "test_loss": 2.238581657409668,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:08:06.840028",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 78.90127897262573,
+    "test_loss": 2.3903985023498535,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:09:20.313418",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 78.90856266021729,
+    "test_loss": 2.3449132442474365,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:10:38.700413",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 79.17091846466064,
+    "test_loss": 2.322084665298462,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:12:06.545842",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 79.5328676700592,
+    "test_loss": 2.2590599060058594,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:13:23.603101",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 79.18913960456848,
+    "test_loss": 2.673880100250244,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:14:45.206624",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 79.5486569404602,
+    "test_loss": 2.349120855331421,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:16:08.876439",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 79.37618494033813,
+    "test_loss": 2.3787424564361572,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:17:50.841459",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 79.45998907089233,
+    "test_loss": 2.689687728881836,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:19:01.912814",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 79.66404557228088,
+    "test_loss": 2.3838164806365967,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:20:22.395121",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 79.98834252357483,
+    "test_loss": 2.1865217685699463,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:21:35.642887",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 80.05878925323486,
+    "test_loss": 2.2031595706939697,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:23:04.130965",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 80.06607294082642,
+    "test_loss": 2.2199392318725586,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:24:41.734227",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 79.7806441783905,
+    "test_loss": 2.562049388885498,
+    "server_count": 5
+  },
+  {
+    "timestamp": "2025-09-14T16:25:53.164846",
+    "type": "federated_aggregation",
+    "epoch": 1,
+    "test_accuracy": 79.82315421104431,
+    "test_loss": 2.37294340133667,
+    "server_count": 5
+  }
+]
